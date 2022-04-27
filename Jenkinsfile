@@ -8,3 +8,7 @@ stage('prueba')
 {
 sh 'se construye nuevo proyecto'
 }
+ stage('prueba3')
+{
+sh 'se CAMBIA A RELEASE'
+}
