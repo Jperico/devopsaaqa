@@ -2,7 +2,7 @@ node
 {
 stage('prueba')
 {
-sh 'hola mundo COLOMBIA'
+
 }
   stage('prueba2')
 {
